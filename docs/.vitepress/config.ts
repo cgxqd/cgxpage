@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/cgxpage/',
   outDir: '../public',
   title: "My Awesome Project",
   description: "A VitePress Site",
