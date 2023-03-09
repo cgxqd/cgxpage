@@ -1,2 +1,2 @@
 # cgxpage
-cgxpage 1
+cgxpage 2
